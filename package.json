@@ -1,0 +1,8 @@
+{
+  "name": "Request-Header-Parser-Microservice",
+  "version": "0.0.0",
+  "description": "microservice that gives ip address, language setting and OS information in JSON",
+  "main": "server.js",
+  "repository": "",
+  "author": "Trevor Baker"
+}
